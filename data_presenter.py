@@ -31,7 +31,6 @@ cupcake_invoices.close()
 ##########################################
 #PART 3
 
-cupcake_invoices = open("CupcakeInvoices.csv")
 import matplotlib.pyplot as plt
 
 cupcake_invoices = open("CupcakeInvoices.csv")
